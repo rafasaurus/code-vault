@@ -1,4 +1,5 @@
 // source https://youtu.be/443UNeGrFoM?t=7782
+// Fast Inverse Square Root — A Quake III Algorithm
 flat d_sqrt(float numnber)
 {
     int i;
